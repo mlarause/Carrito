@@ -140,7 +140,7 @@ if(isset($_SESSION["items_carrito"]))
 </div>
 
 <div>
-<div><h2>Productos</h2></div>
+<div><h2>Productosok</h2></div>
 <div class="contenedor_general">
 	<?php
 	/*Larause*/
